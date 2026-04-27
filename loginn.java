@@ -9,8 +9,8 @@ import java.util.Scanner;
 
 public class Loginn {
     
-    static String name="stacy";
-   static String Email="stacy@gmail.com";
+    static String name;
+   static String Email;
    static String password="stacy2255";
 
     public static void main(String[] args) {
