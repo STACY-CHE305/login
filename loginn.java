@@ -24,7 +24,7 @@ public class Loginn {
        System.out.println("enter your password");
        password = s.nextLine();
        
-       if(name==name  && password==password && Email==Email){
+       if(password.equals("stacy2255")l){
            System.out.println("login successful");
        }
        else{
